@@ -1,0 +1,12 @@
+###实际使用
++ 无鼠标模式，`command+f`,弹出iterm2的查找模式，输入要查找并复制的内容的前几个字母，确认找到的是自己的内容之后，输入tab，查找窗口将自动变化内容，并将其复制。如果输入的是`shift+tab`，则自动将查找内容的左边选中并复制。
++ `command+shift+h`，iterm2将自动列出剪切板的历史记录。
++ `⌘ + 数字`，在各 tab 标签直接来回切换
++ `command+enter`，进入与返回全屏模式
++ 屏幕切割
+	+ `command+d`：垂直分割；
+	+ `command+shift+d`：水平分割
+
+###资料
++ [iTerm2新手应知特色功能](http://www.yangzhiping.com/tech/iterm2.html)
++ [Iterm2 快捷键介绍](http://dayuan.im/blog/iterm2-keymaps.html/)
