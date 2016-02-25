@@ -1,0 +1,12 @@
+apt-get方式安装
+1、安装
+	sudo apt-get insatll packageNmae   例如安装git：  sudo apt-get insatll git
+2、删除
+	sudo apt-get remove packageName 例如删除git： sudo apt-get remove git
+	完整删除，包括删除配置文件： sudo apt-get purge git
+
+3、查看精确的包名 
+	apt-cache search packageNmae
+	例如：apt-cache search git|less  搜索git具体的包名，并且以less（分页器）的格式输出
+
+如果官方的ubuntu仓库的软件不是最新的， 就只有手动安装了。

@@ -1,0 +1,5 @@
+1、owner / group / world
+2、file mode 
+3、查看文件权限：
+	ls -l file   查看文件
+	ls -ld dir 	 查看目录
